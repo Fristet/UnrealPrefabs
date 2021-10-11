@@ -1,5 +1,5 @@
 en:
-Paste into below path.
+Paste into the below path.
 ProjectPath/Content/...
 
 ko:
