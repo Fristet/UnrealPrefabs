@@ -1,3 +1,7 @@
-아래에 경로에 넣어주세요.
+en:
+Paste into below path.
+ProjectPath/Content/...
 
-프로젝트경로 /Content/
+ko:
+아래에 경로에 넣어주세요.
+프로젝트경로/Content/...
